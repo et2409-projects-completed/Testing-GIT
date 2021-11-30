@@ -1,0 +1,17 @@
+h1 {
+    font-size: 4rem;  
+    text-align: center;  
+}
+.top {
+    display: flex;
+    font-size: 2rem;
+    gap: 2rem;
+    padding: 2rem;
+}
+.p1 {   
+    background-color: blue;
+}
+
+.p2 {   
+    background-color: red;
+}
